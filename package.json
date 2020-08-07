@@ -1,0 +1,24 @@
+{
+  "name": "otus-qajs-course",
+  "version": "1.0.0",
+  "description": "Была использована следующая [инструкция](https://phoenixnap.com/kb/install-node-js-npm-on-windows)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathe-rogova/otus-qajs-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathe-rogova/otus-qajs-course/issues"
+  },
+  "homepage": "https://github.com/kathe-rogova/otus-qajs-course#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.6.8",
+    "puppeteer": "^5.2.1"
+  }
+}
